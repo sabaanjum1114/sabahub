@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class CustController {
-	
+	//controller class
 	@Autowired
 	private JdbcTemplate jdbctemplate;
 	
