@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class CustController1 {
 
+	//hrodmdk
 	@Autowired
 	private JdbcTemplate jdbcTemplate;
 	
